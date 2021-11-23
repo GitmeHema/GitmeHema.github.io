@@ -3,6 +3,10 @@ table td div[style="border-top-left-radius: 8px !important; border-top-right-rad
     background-size : 400px 100px;
 }
 
+table [style="overflow: auto; position: relative; zoom: 1;"]{
+    background-color : #d0b9ed;
+}
+
 /* body{
 background-color : black;
 }; */
